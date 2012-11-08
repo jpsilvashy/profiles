@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": 1352370044,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"ColorPicker",
+		"CSSFormat",
+		"DetectSyntax",
+		"IPython Integration",
+		"Package Control",
+		"PythonTidy",
+		"SCSS",
+		"SublimeCodeIntel",
+		"Theme - Soda",
+		"TidyTabs"
+	],
+	"repositories":
+	[
+		"https://github.com/hdemirchian/CSSFormat",
+		"https://github.com/buymeasoda/soda-theme.git",
+		"https://github.com/phillipkoebbe/DetectSyntax.git"
+	]
+}
