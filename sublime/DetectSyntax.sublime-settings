@@ -163,9 +163,10 @@
 		{
 			"name": "ShellScript/Shell-Unix-Generic",
 			"rules": [
+				{"file_name": "^.*(\\.profile|\\.zshrc)$"},
 				{"file_name": "profile"},
 				{"file_name": ".*\\.bash.*$"},
-				{"file_name": ".*\\.(bash|sh)$"},
+				{"file_name": ".*\\.(bash|sh|zsh)$"},
 				{"binary": "bash"}
 			]
 		},
